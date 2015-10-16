@@ -10,7 +10,7 @@ public class menuScript : MonoBehaviour
     public GetInput inputName1;
     public GetInput inputName2;
     public MultiplayerGame mode;
-    public GameObject prefarb;
+    //public GameObject prefarb;
   
     /// <summary>
     /// 
